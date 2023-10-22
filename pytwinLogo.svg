@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="pytwinLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.77058782"
+     inkscape:cx="280.30549"
+     inkscape:cy="569.69496"
+     inkscape:window-width="1299"
+     inkscape:window-height="952"
+     inkscape:window-x="375"
+     inkscape:window-y="393"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="167.40467"
+       y="717.63397"
+       width="295.87802"
+       height="103.81685"
+       id="rect3" />
+    <rect
+       x="259.54212"
+       y="442.51932"
+       width="447.71017"
+       height="228.39707"
+       id="rect2" />
+    <rect
+       x="255.64899"
+       y="439.9239"
+       width="233.58791"
+       height="131.06877"
+       id="rect1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient1475"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36585878,0,0,-0.39437258,52.047136,182.5224)"
+       x1="150.96111"
+       y1="192.35176"
+       x2="112.03144"
+       y2="137.27299" />
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         style="stop-color:#ffd43b;stop-opacity:1;"
+         offset="0"
+         id="stop4673" />
+      <stop
+         style="stop-color:#ffe873;stop-opacity:1"
+         offset="1"
+         id="stop4675" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient1478"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36585878,0,0,-0.39437258,54.101154,180.68986)"
+       x1="26.648937"
+       y1="20.603781"
+       x2="135.66525"
+       y2="114.39767" />
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         style="stop-color:#5a9fd4;stop-opacity:1;"
+         offset="0"
+         id="stop4691" />
+      <stop
+         style="stop-color:#306998;stop-opacity:1;"
+         offset="1"
+         id="stop4693" />
+    </linearGradient>
+    <rect
+       x="167.40467"
+       y="717.63397"
+       width="295.87802"
+       height="103.81685"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     inkscape:export-filename="pytwinLogo.png"
+     inkscape:export-xdpi="143.28328"
+     inkscape:export-ydpi="143.28328">
+    <g
+       id="g1">
+      <path
+         style="fill:url(#linearGradient1478);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.672"
+         d="m 99.568338,172.56365 c -2.981069,-0.0148 -5.827904,-0.28622 -8.332842,-0.75946 -7.379216,-1.39182 -8.718993,-4.30504 -8.718993,-9.67753 v -7.09541 H 99.9545 v -2.36513 H 82.516503 75.972166 c -5.067968,0 -9.505622,-3.25214 -10.893661,-9.43885 -1.601094,-7.09139 -1.67211,-11.51654 0,-18.92109 1.239542,-5.51167 4.199772,-9.43885 9.26774,-9.43885 h 5.995581 v 8.50581 c 0,6.14495 4.979963,11.5653 10.89367,11.5653 h 17.417674 c 4.84846,0 8.719,4.26205 8.719,9.46055 v 17.72767 c 0,5.0454 -3.98674,8.83549 -8.719,9.67753 -2.99559,0.53239 -6.10377,0.77425 -9.084832,0.75946 z m -9.430333,-5.70671 c 1.801219,0 3.272158,-1.59606 3.272158,-3.55856 0,-1.95552 -1.470939,-3.53685 -3.272158,-3.53685 -1.807685,0 -3.272168,1.58133 -3.272168,3.53685 -1e-5,1.9625 1.464483,3.55856 3.272168,3.55856 z"
+         id="path1948" />
+      <path
+         style="fill:url(#linearGradient1475);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.672"
+         d="m 117.49282,154.49866 v -8.26712 c 0,-6.4094 -5.08971,-11.80399 -10.89367,-11.80399 H 89.181478 c -4.770994,0 -8.718993,-4.35948 -8.718993,-9.46055 v -17.72767 c 0,-5.0454 4.109398,-8.013049 8.718993,-9.460551 5.519895,-1.732832 10.813169,-2.045999 17.417672,0 4.39008,1.357035 8.719,4.088071 8.719,9.460551 v 7.09541 H 97.900482 v 2.36513 h 17.417668 8.719 c 5.06797,0 6.9565,3.77409 8.71899,9.43885 1.8206,5.83179 1.74314,11.43999 0,18.9211 -1.25246,5.38639 -3.64458,9.43884 -8.71899,9.43884 z m -9.79617,-44.8942 c 1.80768,0 3.27216,-1.58133 3.27216,-3.53685 0,-1.96248 -1.46448,-3.55856 -3.27216,-3.55856 -1.80123,0 -3.27217,1.59608 -3.27217,3.55856 0,1.95552 1.47093,3.53685 3.27217,3.53685 z"
+         id="path1950" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     transform="matrix(1.2071196,0,0,1.1911661,-31.181789,-17.497677)"
+     style="fill:#1a1a1a">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.19368552,0,0,0.30943101,44.536546,-96.748264)"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:0px;font-family:System-ui;-inkscape-font-specification:System-ui;letter-spacing:5px;direction:rtl;text-orientation:upright;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffffff;stroke:#4d4d4d;stroke-width:10.976"><tspan
+         x="188.94727"
+         y="737.48908"
+         id="tspan1">pytwinz</tspan></text>
+    <path
+       d="m 83.407186,129.84373 h -0.02724 v 6.73374 h -1.116719 v -16.26325 h 1.116719 v 1.95812 h 0.02724 q 0.82392,-2.21921 2.410478,-2.21921 1.348231,0 2.104059,1.50123 0.755828,1.49035 0.755828,4.00327 0,2.79575 -0.851157,4.48191 -0.851157,1.67527 -2.328768,1.67527 -1.35504,0 -2.09044,-1.87108 z m -0.02724,-4.49279 v 1.55561 q 0,1.38157 0.558358,2.34975 0.56517,0.95731 1.429944,0.95731 1.014578,0 1.586558,-1.24015 0.578786,-1.24015 0.578786,-3.44847 0,-1.8602 -0.537932,-2.91542 -0.537931,-1.05521 -1.457181,-1.05521 -0.973722,0 -1.566129,1.08785 -0.592404,1.07696 -0.592404,2.70873 z m 13.599597,-5.03672 -3.207158,12.92359 q -0.857968,3.45934 -2.410477,3.45934 -0.435792,0 -0.728591,-0.14143 v -1.59913 q 0.36089,0.19582 0.660497,0.19582 0.844349,0 1.266524,-1.61002 l 0.55836,-2.1104 -2.723702,-11.11777 h 1.239286 l 1.886162,8.57221 q 0.03404,0.16318 0.142995,0.84852 h 0.04085 q 0.03404,-0.26109 0.136183,-0.82677 l 1.981494,-8.59396 z m 5.401267,11.03073 q -0.39494,0.34811 -1.04182,0.34811 -1.831695,0 -1.831695,-3.26351 V 121.8372 H 98.30886 v -1.52298 h 1.198433 v -2.71961 l 1.116717,-0.57655 v 3.29616 h 1.7568 v 1.52298 h -1.7568 v 6.27686 q 0,1.12049 0.23833,1.59913 0.23833,0.47865 0.78988,0.47865 0.42216,0 0.72859,-0.36986 z m 11.24359,-11.03073 -2.09044,11.13953 h -1.15757 l -1.43675,-7.97389 q -0.0818,-0.4569 -0.10895,-1.03347 h -0.0272 q -0.0204,0.39162 -0.14299,1.01171 l -1.55933,7.99565 h -1.11672 l -2.11088,-11.13953 h 1.17121 l 1.44356,8.37641 q 0.068,0.38074 0.0953,1.00081 h 0.0545 q 0.0203,-0.47866 0.12256,-1.02258 l 1.60699,-8.35464 h 1.02139 l 1.44356,8.39816 q 0.068,0.40249 0.10213,1.00081 h 0.0545 q 0.0137,-0.42426 0.11576,-1.00081 l 1.41633,-8.39816 z m 2.83416,-2.82838 q -0.29961,0 -0.51069,-0.32637 -0.21108,-0.32634 -0.21108,-0.82674 0,-0.50043 0.21108,-0.82677 0.21108,-0.33723 0.51069,-0.33723 0.30642,0 0.51751,0.33723 0.21789,0.32634 0.21789,0.82677 0,0.47864 -0.21789,0.81588 -0.21109,0.33723 -0.51751,0.33723 z m 0.54474,13.96791 h -1.11671 v -11.13953 h 1.11671 z m 9.01698,0 h -1.11673 v -6.35302 q 0,-3.54637 -1.62061,-3.54637 -0.83753,0 -1.38907,1.0117 -0.54474,1.00082 -0.54474,2.53467 v 6.35302 h -1.11673 v -11.13953 h 1.11673 v 1.84934 h 0.0272 q 0.78986,-2.11043 2.28791,-2.11043 1.14395,0 1.74997,1.18576 0.60603,1.17487 0.60603,3.40495 z m 7.93428,-10.62824 -4.1264,9.10524 h 4.08556 v 1.523 h -5.72659 v -0.5548 l 4.12641,-9.06175 h -3.73828 v -1.52298 h 5.3793 z"
+       id="text4"
+       style="font-size:72px;line-height:0px;font-family:System-ui;-inkscape-font-specification:System-ui;letter-spacing:5px;direction:rtl;text-orientation:upright;white-space:pre;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.794571;stroke-dasharray:none"
+       aria-label="pytwinz" />
+  </g>
+</svg>
