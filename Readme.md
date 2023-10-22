@@ -25,6 +25,9 @@ At PyTwinz, we're committed to keeping you informed and inspired. Our content in
 - **OpenAI Insights:** Stay up-to-date with the latest developments from OpenAI, including AI research, projects, and applications.
 - **Programming News:** We discuss recent happenings and breakthroughs in the world of programming and technology.
 - **Project Showcases:** Watch us build practical projects using Python, and gain insights into real-world applications of programming.
+- **Pet Projects:** The keyboard is the programmer's lightsaber, we're building a custom keyboard, including QMK programming for custom keybinds and led.
+  example:
+  ![Corne keyboard](assets/20230131_222804.mp4)
 
 ## How to Connect
 
