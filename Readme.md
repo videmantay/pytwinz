@@ -28,8 +28,8 @@ At PyTwinz, we're committed to keeping you informed and inspired. Our content in
 - **Pet Projects:** The keyboard is the programmer's lightsaber, so we'll be building  custom keyboards, including the QMK programming for custom key binds and led.<br>
 
    
-    [![Watch the Video](https://img.youtube.com/vi/PqYUlA4mVvs/default.jpg)](https://youtu.be/PqYUlA4mVvs)<br>
-  *<small>(Corne Keyboard is just an example, actual will be a Dactyl Manuform)</small>*
+  &emsp; &emsp; [![Watch the Video](https://img.youtube.com/vi/PqYUlA4mVvs/default.jpg)](https://youtu.be/PqYUlA4mVvs)<br>
+  *<small><font size=1>(Corne Keyboard is just an example, actual will be a Dactyl Manuform)</font></small>*
 
 ## How to Connect
 
