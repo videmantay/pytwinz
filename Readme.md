@@ -26,11 +26,9 @@ At PyTwinz, we're committed to keeping you informed and inspired. Our content in
 - **Programming News:** We discuss recent happenings and breakthroughs in the world of programming and technology.
 - **Project Showcases:** Watch us build practical projects using Python, and gain insights into real-world applications of programming.
 - **Pet Projects:** The keyboard is the programmer's lightsaber, we're building a custom keyboard, including QMK programming for custom keybinds and led.
-  example:
-  ![Corne keyboard] 
-<video controls>
-  <source src="assets/corne.mp4" type="video/mp4">
-</video>
+
+ 
+    ![mqdefault](https://github.com/dedguy21/pytwinz/assets/49103740/54a4e926-463e-46dd-90f9-0503789154a5)
 
 
 ## How to Connect
