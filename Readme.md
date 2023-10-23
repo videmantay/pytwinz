@@ -25,11 +25,10 @@ At PyTwinz, we're committed to keeping you informed and inspired. Our content in
 - **OpenAI Insights:** Stay up-to-date with the latest developments from OpenAI, including AI research, projects, and applications.
 - **Programming News:** We discuss recent happenings and breakthroughs in the world of programming and technology.
 - **Project Showcases:** Watch us build practical projects using Python, and gain insights into real-world applications of programming.
-- **Pet Projects:** The keyboard is the programmer's lightsaber, so we'll be building  custom keyboards, including the QMK programming for custom key binds and led.
+- **Pet Projects:** The keyboard is the programmer's lightsaber, so we'll be building  custom keyboards, including the QMK programming for custom key binds and led.<br>
 
- 
-     ![mqdefault](https://github.com/dedguy21/pytwinz/assets/49103740/54a4e926-463e-46dd-90f9-0503789154a5)<br>
-     (https://youtube.com/watch?v=PqYUlA4mVvs)<br>
+   
+    [![Watch the Video](https://github.com/dedguy21/pytwinz/assets/49103740/54a4e926-463e-46dd-90f9-0503789154a5)](https://youtu.be/PqYUlA4mVvs)<br>
   *<small>(Corne Keyboard is just an example, actual will be a Dactyl Manuform)</small>*
 
 ## How to Connect
