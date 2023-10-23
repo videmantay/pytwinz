@@ -25,14 +25,13 @@ At PyTwinz, we're committed to keeping you informed and inspired. Our content in
 - **OpenAI Insights:** Stay up-to-date with the latest developments from OpenAI, including AI research, projects, and applications.
 - **Programming News:** We discuss recent happenings and breakthroughs in the world of programming and technology.
 - **Project Showcases:** Watch us build practical projects using Python, and gain insights into real-world applications of programming.
-- **Pet Projects:** <table style="border:none">
-                        <tbody style="border:none">
-                            <tr style="border:none">
-                            <td style="vertical-align:top;border:none">The keyboard is the programmer's lightsaber, we're building a custom keyboard, including QMK programming for custom keybinds and led.</td>
-                            <td style="border:none">
+- **Pet Projects:** <div style="display:flex">
+                        <div style="vertical-align:top">The keyboard is the programmer's lightsaber, we're building a custom keyboard, including QMK programming for custom keybinds and led.</div>
+                            <div>
     ![mqdefault](https://github.com/dedguy21/pytwinz/assets/49103740/54a4e926-463e-46dd-90f9-0503789154a5)<br/>
      <figcaption style="text-align:center">Corne Keyboard Example</figcaption> 
-    </td></tr></tbody></table>
+   </div>
+    </div>
    
 
 
