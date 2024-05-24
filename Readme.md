@@ -33,7 +33,9 @@ At PyTwinz, we're committed to keeping you informed and inspired. Our content in
     </div>
    
 
-
+   
+  &emsp; &emsp; [![Watch the Video](https://img.youtube.com/vi/PqYUlA4mVvs/default.jpg)](https://youtu.be/PqYUlA4mVvs)<br>
+  *<small><font size=1>(Corne Keyboard is just an example, actual will be a Dactyl Manuform)</font></small>*
 
 ## How to Connect
 
